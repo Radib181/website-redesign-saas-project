@@ -40,7 +40,7 @@ export function ProjectSelector({
           />
           <div className="absolute top-full left-0 mt-2 w-72 z-50 glass-card p-2 animate-scale-in">
             <div className="flex items-center justify-between px-3 py-2 border-b border-border/50 mb-2">
-              <span className="text-sm font-medium text-foreground">Your Projects</span>
+              <span className="text-sm font-medium text-foreground">Your Projects Here </span>
               <Button
                 variant="ghost"
                 size="sm"

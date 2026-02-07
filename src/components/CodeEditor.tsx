@@ -87,7 +87,7 @@ export function CodeEditor({ code, isTyping, progress }: CodeEditorProps) {
       </div>
 
       {/* Status Bar */}
-      <div className="flex items-center justify-between px-4 py-2 border-t border-border/50 bg-secondary/30 text-xs text-muted-foreground">
+      <div className="flex items-center justify-between px-5 py-3 border-t border-border/50 bg-secondary/30 text-xs text-muted-foreground">
         <div className="flex items-center gap-4">
           <span>HTML</span>
           <span>UTF-8</span>
