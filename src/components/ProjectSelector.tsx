@@ -58,7 +58,7 @@ export function ProjectSelector({
             <div className="max-h-60 overflow-y-auto space-y-1">
               {projects.length === 0 ? (
                 <p className="text-sm text-muted-foreground text-center py-4">
-                  No projects yet. Create one!
+                  Now project here ......Create a new project to get started! !! 
                 </p>
               ) : (
                 projects.map((project) => (
